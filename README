@@ -1,0 +1,18 @@
+I created this project from scratch using various online resources for guidance. All the sprites are my glorious artwork, feel free to use. I've included a javadoc to go along with the code. 
+
+Quick Note:
+Game.java -> Game Driver
+
+Character.java has the children Ghost and Pacman
+Item.java has the children Niblet (pellet) and PowerPellet
+
+Map.Java has a 2D array of Cells
+
+Instructions:
+
+Load the Java project into your favorite IDE and build/run.
+
+Gameplay:
+-Use the arrow keys to move around the map. 
+-Press T to skip from level to level
+
